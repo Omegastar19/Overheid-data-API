@@ -1,5 +1,6 @@
 # Overheid-data-API
-Een API programma dat een dataset van de CBS opvraagt en de data vervolgens in een grafiek weergeeft
+
+An API which requests a dataset from the CBS, and then displays specific data from the dataset in a graph.
 
 Data is taken from https://data.overheid.nl/
 
